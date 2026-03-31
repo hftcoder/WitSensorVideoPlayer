@@ -1,0 +1,14 @@
+.DS_Store
+.build/
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+xcschemes/*.xcscheme-management.plist
+xcuserdata/
+*.xcscmblueprint
+Podfile.lock
+Pods/
+Carthage/
+DerivedData/
+*.ipa
+*.dSYM.zip
+.swiftpm/
